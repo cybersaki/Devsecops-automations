@@ -1,6 +1,6 @@
 
 ### Purpose of the main.py script
-The following mainl.py performs a concatenation of 7 network devices reports which creates a results.xlsx here.
+The following main.py performs a concatenation of 7 network devices reports which creates a results.xlsx here.
 The results.xlsx file should be combined with 7 columns of data from network devices.
 
 ### jenkins to gdrive migration
